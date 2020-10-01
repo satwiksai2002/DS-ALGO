@@ -29,4 +29,8 @@
 * Θ(n!)
 #### The further down the list we go, the quicker the functions grow as data set sizes increase. As a result, a smaller Big O notation is ideal to achieve. 
 
+## Contributing
 
+If you have suggestions for how IEEE-IIITSricity.github.io could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+
+For more, check out the [Contributing Guide](CONTRIBUTING.md).
