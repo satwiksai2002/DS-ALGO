@@ -10,7 +10,7 @@
 * Graphs
 
 ## Algorithms
-#### An algorithm is simply a set of steps used to complete a specific task. Algorithm efficiency is the measure of the average execution time necessary for an algorithm to complete work on a set of data. In this context, algorithm efficiency has a direct relatiopnship with computational resources. For this reason, it is ideal to maximize algorithm efficicency in order to reduce execution time. 
+#### An algorithm is simply a set of steps used to complete a specific task. Algorithm efficiency is the measure of the average execution time necessary for an algorithm to complete work on a set of data. In this context, algorithm efficiency has a direct relationship with computational resources. For this reason, it is ideal to maximize algorithm efficiency in order to reduce execution time. 
 ### Contains:
 #### 
 * 2 String Algorithms
